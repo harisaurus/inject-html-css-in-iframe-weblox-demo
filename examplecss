@@ -1,0 +1,31 @@
+/* Team 2
+======================================== */
+.team-2 .light-gray-bg{
+	padding: 60px 0;
+	margin-bottom: 60px;
+}
+
+.team-2 .person h5{
+	margin-bottom: 0;
+}
+
+.team-2 .person small{
+	font-size: 13px;
+	font-style: italic;
+	display: block;
+	margin-bottom: 20px;
+}
+
+.team-2 .social{
+	list-style-type: none;
+	padding: 0;
+}
+
+.team-2 .social li{
+	display: inline-block;
+	padding: 0 10px;
+}
+
+.team-2 .social li:first-child{ padding-left: 0; }
+
+.team-2 .social li:last-child{ padding-right: 0; }
